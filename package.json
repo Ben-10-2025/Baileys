@@ -1,6 +1,6 @@
 {
-  "name": "LAKIYA-MD",
-  "version": "6.8.3",
+  "name": "manul-ofc-tech",
+  "version": "1.0.0",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys", "baileys-mod", "wabot", "whatsapp",
@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
-  "author": "MR-LAKIYA",
+  "author": "Manul Official",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
